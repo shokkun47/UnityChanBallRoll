@@ -45,7 +45,7 @@ public class PlayerController : MonoBehaviour
 
     void SetCountText()
     {
-        countText.text ="ゲット数：" +  count.ToString();
+        countText.text = "ゲット数：" + count.ToString();
 
     }
 }
